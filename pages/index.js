@@ -1,12 +1,5 @@
 function Home() {
-  return <h1>Aveline doidona!</h1>;
+  return <h1>Te amo sua gata! Da uma risadinha se você me ama :)</h1>;
 }
 
-function teste() {
-  console.log("teste");
-}
-
-function teste2() {
-  console.log("teste2");
-}
 export default Home;
